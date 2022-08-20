@@ -13,9 +13,9 @@ This is a **guide** on being an **influencer**, and **influencing**.
 
 An effective **influencer** is creating content for specific **group of people**.
 
-If you write for everyone, then you write for no-one.
+If you create content for everyone, then you create content for no-one.
 
-An **influencer** needs to effectively decide who is their **target audience** — and thus who they are writing for.
+⚠️ An **influencer** needs to be able to effectively decide who is their **target audience** — and thus who they are writing for.
 
 ## Community
 
@@ -23,7 +23,12 @@ If you want to create a new **community** ⁠— then you need to define the in-
 
 An **influencer** should try to create a **community** around themselves.
 
-And thus they need to (implicitly or explicitly) define who is and isn't in their **in-group**.
+And thus —
+
+⚠️ An **influencer** needs to (implicitly or explicitly) define who is and isn't in their **in-group**.
+
+The **target audience** will be in the **in-group**.
+But the **in-group** migh also include individuals who are not in the **target audience**.
 
 ## Topics
 
