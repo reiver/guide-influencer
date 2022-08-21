@@ -27,7 +27,9 @@ Typically an **influencer** has a specific **group of people** — i.e., a **tar
 
 To be effective at **influencing**, an **influencer** needs to write content for a specific **target audience**.
 
-Maybe that **target audience** is —
+Here are a number of example **target audiences** —
+
+Example **target audience** №1 —
 * females,
 * between the ages of 25 and 34,
 * who speak English,
@@ -35,19 +37,22 @@ Maybe that **target audience** is —
 * who are married, and
 * who have at least one child.
 
-Alternatively maybe the **target audience** is —
+Example **target audience** №2 —
 * males,
 * in their teens or 20s,
 * who are fans of the Dragon Ball fiction.
 
-Or, maybe the **target audience** is —
-* anyone who eat cheese.
+Example **target audience** №3 —
+* anyone who attends the Dragon Ball meetup in Vancouver.
 
-Or, the **target audience** could be —
+Example **target audience** №4 —
+* anyone who eats cheese.
+
+Example **target audience** №5 —
 * all executives,
 * that work at a corporation with at least 1,000 employees and contractors.
 
-Or even, the **target audience** could be —
+Example **target audience** №6 —
 * anyone who is a has watched a video made by Dr. Joe Blow.
 
 Etc.
@@ -56,16 +61,40 @@ Etc.
 
 ## Community
 
-If you want to create a new **community** ⁠— then you need to define the in-group, and put everyone else in the out-group.
+A strategy for an **influencer** to reach their **target audience** is to engage a **community**.
 
-An **influencer** should try to create a **community** around themselves.
+Sometimes this is an existing **community**.
+Sometimes the **community** is created by the **influencer**.
 
-And thus —
+The idea of a **community** and the idea of a **target audience** are related but often different.
+
+Sometimes the **target audience** and **community** could be the same thing.
+
+For example —
+* anyone who attends the Dragon Ball meetup in Vancouver.
+
+But also, more often the **target audience** could be different than but related to a **community**.
+
+For example, imagine if an **influencer**'s **target audience** is —
+* males,
+* in their teens or 20s,
+* who are fans of the Dragon Ball fiction.
+
+A **community** that is related to but different from this might be —
+* the people who regularly attend the Dragon Ball meetup in Vancouver.
+
+Also for example, imagine a YouTuber whose **target audience** is —
+* people who are interested in vintage toys from the 1960s, 1970s, and 1980s.
+
+A **community** that is related to but different from this might be —
+* people who joined that YouTuber's Patreon.
+
+Sometimes the **community** already exists.
+But sometimes the **community** is created by the **influencer**.
+
+If you want to create a new **community** ⁠— then you need to define who the in-group is, and put everyone else in the out-group.
 
 ⚠️ An **influencer** needs to (implicitly or explicitly) define who is and isn't in their **in-group**.
-
-The **target audience** will be in the **in-group**.
-But the **in-group** migh also include individuals who are not in the **target audience**.
 
 ## Topics
 
