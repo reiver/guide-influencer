@@ -98,10 +98,16 @@ If you want to create a new **community** ⁠— then you need to define who the
 
 ## Topics
 
-## Sense Maker
+## Sense Making
 
-## Reporter
+## Curating and Collecting Information
 
-## Editorializer
+## Taste Making
+
+## Socialites
+
+## Reporting
+
+## Editorializing
 
 ## Feedback Loop
