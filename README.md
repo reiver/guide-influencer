@@ -20,7 +20,7 @@ There is no _article_ that everyone will be interested in reading.
 There is no _video_ that everyone will be interested in watching.
 There is no _audio_ that everyone will be interested in listening to.
 
-Each _article_, each _video_, each _audio_, will be interesting to someone, and uninteresting to others.
+Each _article_, each _video_, each _audio_, may be interesting to some peple, and will definitely be uninteresting to others.
 Very likely more people will find it uninteresting than will find it interesting.
 
 But that is OK.
