@@ -9,7 +9,9 @@ This is a **guide** on being an **influencer**, and **influencing**.
 
 ---
 
-## Target Audience
+## Who Is Your Target Audience?
+
+If you are going to become an effective **influencer** then you need to decide — _who is your **target audience**_.
 
 If you make content for _everyone_, then you make content for _no-one_.
 
