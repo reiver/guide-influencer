@@ -5,7 +5,9 @@ by [Charles Iliya Krempeaux](http://changelog.ca/)
 ---
 
 This is a **guide** on being an **influencer**, and **influencing**.
-**Influcing** is (directly or indirectly) part of what is done by — **journalists**, **reporters**, **marketers**, as well as others..
+
+**Influcing** is (directly or indirectly) part of what is done by — **journalists**, **reporters**, **marketers**, **propagandists**, as well as others.
+It is all a form of **manipulation** — whether that be **positive-sum** manipulation (which you may desire), or **zero-sum** manipulation (which you may prefer not happen).
 
 ---
 
